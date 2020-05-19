@@ -1,6 +1,6 @@
 # Twitter Named Entity Recognition
-Using BERT model to recognize important Named Entities inside Tweeter tweets.
+Using BERT model to recognize important Named Entities inside Tweeter tweets. Please see the iPython Notebook for full code & result.
 
+![tweet](images/tweet.png)
 
-
-Please see the iPython Notebook for full code & result.
+![bert](images/bert-ner.png)
