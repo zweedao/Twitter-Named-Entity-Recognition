@@ -8,4 +8,4 @@ Using BERT model to recognize important Named Entities inside Tweeter tweets. Pl
 
 ### BERT model architecture:
 
-![bert](images/bert-ner.png)
+<img src="images/bert-ner.png" width="400px">
